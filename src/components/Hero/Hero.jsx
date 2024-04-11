@@ -11,7 +11,7 @@ export const Hero = () => {
         <p className={styles.description}>
         Experto en crear interfaces web atractivas y funcionales con 1 año de experiencia. Dominio de tecnologías front-end y back-end para experiencias web completas.!
         </p>
-        <a href="dapt030304@gmail.com" className={styles.contactBtn}>
+        <a href="mailto:dapt030304@gmail.com" className={styles.contactBtn}>
           Contactanos
         </a>
       </div>
