@@ -1,0 +1,66 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "c#",
+    "imageSrc": "skills/cchart.png"
+  },
+  {
+    "title": "docker",
+    "imageSrc": "skills/docker.png"
+  },
+  {
+    "title": "git",
+    "imageSrc": "skills/git.png"
+  },
+  {
+    "title": "github",
+    "imageSrc": "skills/github.png"
+  },
+  {
+    "title": "mysql",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "net",
+    "imageSrc": "skills/net.png"
+  },
+  {
+    "title": "php",
+    "imageSrc": "skills/php.png"
+  },
+  {
+    "title": "postman",
+    "imageSrc": "skills/postman.webp"
+  },
+  {
+    "title": "python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "scss",
+    "imageSrc": "skills/scss.png"
+  },
+  {
+    "title": "sql",
+    "imageSrc": "skills/sql.png"
+  }
+]

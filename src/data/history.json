@@ -1,0 +1,19 @@
+[
+  {
+    "role": "Front-end Developer",
+    "organisation": "Restaurante 21",
+    "startDate": "Marzo, 2022",
+    "endDate": "Octubre, 2023",
+    "experiences": ["Diseñador en paginas web", "Creacion de paginas"],
+    "imageSrc": "history/21.webp"
+  },
+  {
+    "role": "Arquitecto en base de Datos y Front-end",
+    "organisation": "SLB",
+    "startDate": "Noviembre, 2023",
+    "endDate": "Mayo, 2024",
+    "experiences": ["Mantenimineto y creacion de bases de Datos", "Creador de paginas y APIS Web", "Diseñador Web"],
+    "imageSrc": "history/p.png"
+  }
+  
+]

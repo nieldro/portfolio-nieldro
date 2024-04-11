@@ -1,0 +1,219 @@
+[
+  {
+    "title": "Valorant",
+    "imageSrc": "projects/valorant.png",
+    "description": "Esta es una Web de inspirada en Valorant",
+    "skills": ["java script", "css", "html"],
+    "demo": "https://github.com/nieldro/valorant-web"
+    
+  },
+  {
+    "title": "Error 404",
+    "imageSrc": "projects/404.png",
+    "description": "Esta Web representa el error 404",
+    "skills": ["html", "css"],
+    "demo": "https://github.com/nieldro/404-Web"
+  },
+  {
+    "title": "Cascos",
+    "imageSrc": "projects/cascos.png",
+    "description": "Esta es una Web donde se vende cascos ",
+    "skills": ["html", "java script", "css"],
+    "demo": "https://github.com/nieldro/cascos-web"
+    
+  },
+  {
+    "title": "Clima",
+    "imageSrc": "projects/clima.png",
+    "description": "Esta es una Web y diseño para saber el clima ",
+    "skills": ["html", "java script", "css"],
+    "demo": "https://github.com/nieldro/clima-web"
+    
+  },
+  {
+    "title": "Juego de la Serpiente",
+    "imageSrc": "projects/serpiente.png",
+    "description": "Esta es una Web para jugar el clasico juego de la serpiente",
+    "skills": ["html", "java script", "css","scss"],
+    "demo": "https://github.com/nieldro/juego-de-la-serpiente-web"
+    
+  },
+  {
+    "title": "Musica",
+    "imageSrc": "projects/musica.png",
+    "description": "Esta es una Web para escuchar musica",
+    "skills": ["html", "java script", "css"],
+    "demo": "https://github.com/nieldro/musica-web"
+    
+  },
+  {
+    "title": "Lata de Frutas",
+    "imageSrc": "projects/latafrutas.png",
+    "description": "Esta es una Web basada de latas con sabor a frutas",
+    "skills": ["html", "java script", "css"],
+    "demo": "https://github.com/nieldro/lata-frutas-web"
+    
+  },
+  {
+    "title": "Relog Minimalista",
+    "imageSrc": "projects/relogel.png",
+    "description": "Esta es una Web basada en el dise;o de un relog atractivo",
+    "skills": ["html", "java script", "css"],
+    "demo": "https://github.com/nieldro/relog-elegante-web"
+    
+  },
+  {
+    "title": "Planetas del Sistemas Solar",
+    "imageSrc": "projects/Planetas.png",
+    "description": "Esta es una Web basada en el dise;o de un relog atractivo",
+    "skills": ["html", "java script", "css"],
+    "demo": "https://github.com/nieldro/planetas-web"
+    
+  },
+  {
+    "title": "Computadora 3D",
+    "imageSrc": "projects/pc3d.png",
+    "description": "Esta es una Web para ver en 3D una Computadora",
+    "skills": ["html", "java script", "css", "scss"],
+    "demo": "https://github.com/nieldro/pc3d-web"
+    
+  },
+  {
+    "title": "Interface de una APP de Pasos",
+    "imageSrc": "projects/pasos.png",
+    "description": "Esta es una Web para ver un diseño de App sobre el calculo de Pasos diarios",
+    "skills": ["html", "java script", "css"],
+    "demo": "https://github.com/nieldro/app-pasos-web"
+    
+  },
+  {
+    "title": "Panaderia 3D",
+    "imageSrc": "projects/panaderia.png",
+    "description": "Esta es una Web para el diseño de una panaderia en 3D",
+    "skills": ["html", "java script", "css","scss"],
+    "demo": "https://github.com/nieldro/panaderia3D-web"
+    
+  },
+  {
+    "title": "The North",
+    "imageSrc": "projects/norte.png",
+    "description": "Este es una diseño Web de una apgina del polo Norte",
+    "skills": ["html",  "css"],
+    "demo": "https://github.com/nieldro/norte-web"
+    
+  },
+  {
+    "title": "Dreams",
+    "imageSrc": "projects/dream.png",
+    "description": "Este es un diseño Web para ver una apgina Dream",
+    "skills": ["html",  "css"],
+    "demo": "https://github.com/nieldro/pagina-de-sue-os-web"
+    
+  },
+  {
+    "title": "Planeta Tierra Paises",
+    "imageSrc": "projects/ptierra.png",
+    "description": "Esta es una Web para ver los paises del planeta tierra",
+    "skills": ["html", "java script", "css"],
+    "demo": "https://github.com/nieldro/plantea-tierra-web"
+    
+  },
+  {
+    "title": "Lugares del Mundo",
+    "imageSrc": "projects/lugares.png",
+    "description": "Esta es una Web para ver informacion de de lugares del mundo",
+    "skills": ["html", "java script", "css","scss"],
+    "demo": "https://github.com/nieldro/informacion-lugares-web"
+    
+  },
+  {
+    "title": "Login",
+    "imageSrc": "projects/login1.png",
+    "description": "Este es un diseño Web para el Login de una pagina Web con algo de animacion ",
+    "skills": ["html", "java script", "css"],
+    "demo": "https://github.com/nieldro/Login-animado-web"
+    
+  },
+  {
+    "title": "Catalogo de Lamborgini",
+    "imageSrc": "projects/lamborg.png",
+    "description": "Esta es una Web para ver el catalogo del autos de Lamborgini ",
+    "skills": ["html", "java script", "css"],
+    "demo": "https://github.com/nieldro/catalogo-lamborgini-web"
+    
+  },
+  {
+    "title": "Juego de Nuves",
+    "imageSrc": "projects/nuves.png",
+    "description": "Esta es una Web para jugar un juevo donde se esquivan nubes",
+    "skills": ["html", "java script", "css","scss"],
+    "demo": "https://github.com/nieldro/juego-de-nuves-web"
+    
+  },
+  {
+    "title": "Juego de Gorilas",
+    "imageSrc": "projects/gorilas.png",
+    "description": "Esta es una Web para jugar un juego de Gorilas que se quieren ponchar con una banana",
+    "skills": ["html", "java script", "css"],
+    "demo": "https://github.com/nieldro/Juego-de-Grorilas-web"
+    
+  },
+  {
+    "title": "Eventos",
+    "imageSrc": "projects/eventos.png",
+    "description": "Este es un diseño Web para ver eventos artisticos con modo oscuro",
+    "skills": ["html", "java script", "css"],
+    "demo": "https://github.com/nieldro/eventos-web"
+    
+  },
+  {
+    "title": "Random xD",
+    "imageSrc": "projects/template.png",
+    "description": "Este es un diseño Web ",
+    "skills": ["html",  "css"],
+    "demo": "https://github.com/nieldro/template-comun-web"
+    
+  },
+  {
+    "title": "Lorem",
+    "imageSrc": "projects/lorem.png",
+    "description": "Este es un diseño Web gamer",
+    "skills": ["html", "java script","scss", "css"],
+    "demo": "https://github.com/nieldro/template-oscuro-web"
+    
+  },
+  {
+    "title": "Habitacion Futurista",
+    "imageSrc": "projects/futurista.png",
+    "description": "Este es un diseño Web para ver una Habitacion Futurista",
+    "skills": ["html", "java script", "css"],
+    "demo": "https://github.com/nieldro/habitacion-futurista-3D"
+    
+  },
+  {
+    "title": "Targeta de Credito",
+    "imageSrc": "projects/targeta.png",
+    "description": "Este es un diseño Web para ver y diseñar una Targeta de Credito",
+    "skills": ["html", "java script", "css"],
+    "demo": "https://github.com/nieldro/targeta-de-credito-web"
+    
+  },
+  {
+    "title": "Informacion de Lugares del Mundo",
+    "imageSrc": "projects/lugar.png",
+    "description": "Este es un diseño Web para ver informacion de lugares del mundo",
+    "skills": ["html", "java script", "css"],
+    "demo": "https://github.com/nieldro/web-lugares"
+    
+  },
+  {
+    "title": "Albunes",
+    "imageSrc": "projects/albun.png",
+    "description": "Este es un diseño Web para ver y escuchar Albunes de Musica",
+    "skills": ["html", "java script", "css"],
+    "demo": "https://github.com/nieldro/web-albunes"
+    
+  }
+
+]
+
